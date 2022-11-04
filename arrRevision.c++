@@ -8,10 +8,8 @@ int main(){
     for(i=1;i<=500;i++){
        if(i%2==0){
         
-        cout<<i<< endl;;
-
+        cout<<i<< endl;
 
        }
     }
-       
 }

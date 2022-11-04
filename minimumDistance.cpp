@@ -30,5 +30,4 @@ int main(){
     cout << "Minimum distance between " << x << " and " << y
          << " is " << minDistance(arr, n, x, y) << endl;
 
-
 }
